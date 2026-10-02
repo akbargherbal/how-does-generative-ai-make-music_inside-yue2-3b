@@ -1,0 +1,6 @@
+{
+  "name": "How Does Generative AI Make Music? — Inside YuE2-3B",
+  "description": "An interactive, chapter-based explainer for junior developers walking through how YuE2-3B turns text lyrics into 48 kHz stereo music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
