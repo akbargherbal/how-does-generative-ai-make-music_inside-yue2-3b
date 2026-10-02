@@ -301,6 +301,7 @@ export default function App() {
 
           {isChapterView && (
             <ChapterView
+              key={activeChapter.id}
               chapter={activeChapter}
               onNavigateChapter={handleSelectChapter}
               onNavigateToGlossary={handleNavigateToGlossary}
